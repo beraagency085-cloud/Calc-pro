@@ -1,0 +1,7 @@
+{
+  "name": "CalcPro - Professional Online Calculators",
+  "description": "Comprehensive suite of fast, accurate, and professional calculators for EMI, SIP, Mortgage, BMI, Age, Calories, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
